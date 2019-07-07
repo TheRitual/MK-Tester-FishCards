@@ -6,6 +6,6 @@ public class CognitusTypes {
     }
 
     public enum Sides {
-        TEXT, IMAGE
+        TEXT, IMAGE_URI
     }
 }
