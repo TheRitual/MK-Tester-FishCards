@@ -1,9 +1,0 @@
-package eu.theritual.tests;
-
-public enum CardType {
-    //2 sides
-    TXT2TXT, IMG2TXT, TXT2IMG, IMG2IMG,
-    //3 sides
-    TXT2TXT2TXT, TXT2TXT2IMG, TXT2IMG2TXT, TXT2IMG2IMG,
-    IMG2TXT2TXT, IMG2TXT2IMG, IMG2IMG2TXT, IMG2IMG2IMG
-}
